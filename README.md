@@ -1,14 +1,14 @@
 # Embedded Linux development using Beaglebone Black
 
-Embedded Linux development using Beaglebone Black Rev C board with focus on following topics:
-- ARM Linux System learning
-- Boot mechanism ( U-Boot, Busybox etc. )
+Embedded Linux development using Beaglebone Black Rev C board with a focus on the following topics:
+- ARM Linux system learning
+- Boot mechanism ( U-Boot, Busybox, etc. )
 - Buildroot
 - Understanding platform devices
 - Linux device tree
 - Basic drivers' programming
 
-Documents & references related to STM32L476RG:
+Documents & references related to BBB rev C:
 
 - https://elinux.org/Beagleboard:BeagleBoneBlack
 - http://192.168.7.2/
