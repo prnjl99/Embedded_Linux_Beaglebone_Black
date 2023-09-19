@@ -14,3 +14,4 @@ Documents & references related to BBB rev C:
 - http://192.168.7.2/
 - https://github.com/beagleboard/beaglebone-black
 - https://github.com/niekiran/EmbeddedLinuxBBB/tree/master/Docs_n_datasheets
+- https://www.ti.com/lit/ug/spruh73q/spruh73q.pdf
